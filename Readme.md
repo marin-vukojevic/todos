@@ -1,0 +1,1 @@
+Sample GOTH stack project that contains GO as backend with Chi router, SqlC for SQL handling, Goose for sql migrations, Templ as teplating engine for HTML and HTMX for interactivity.
